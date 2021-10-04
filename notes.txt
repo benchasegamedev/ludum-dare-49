@@ -1,0 +1,19 @@
+Ludum Dare 49
+October 1 - 4, 2021
+Theme: Unstable
+
+Nation Sim-like game
+Unstable population
+- up and down
+-- upDown: 0 - up, 1 - down
+- gain or lose up to 2.7% of pop every year
+Endless
+Political influence
+- direction based on who is mayor
+- gain / lose pct based on vote results
+-- 50 - 60% maj: 0.3%
+-- 60 - 70% maj: 0.9%
+-- 70 - 80% maj: 1.5%
+-- 80 - 90% maj: 2.1%
+-- 90 - 100% maj: 2.7%
+-- no election: 1.5%
